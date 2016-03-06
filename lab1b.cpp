@@ -18,7 +18,6 @@ int main(){
 		else 
 			n = n/2;
 
-
 		cout << " " << n;
 
 
