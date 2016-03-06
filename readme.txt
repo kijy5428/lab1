@@ -8,4 +8,6 @@ output : a sequence of numbers  matching   with   lab1's
 compile g++ -o lab1b lab1b.cpp
 		./lab1b
 
+
+
   
