@@ -1,0 +1,36 @@
+Script started on 2016年03月06日 (週日) 22時20分16秒
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ whoami; pwd
+H34016128
+/home/H34016128
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git congi[K[Kfig -;
+error: key does not contain a section: -
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git config -;[Kl
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git config -l[Kg[K[K--gloa[Kbal user.name ""j"i"m"m"t"[1P"y"
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git comif[K[Kfig [1P[1@n[C[C[C[C--gloa[Kbal user.email "" [1@j[1@i[1@m[1@m[1@y[1@@[1@g[1@m[1P[1P[1@y[1@a[1@g[1P[1@h[1@o[1@o[1@.[1@c[1@o[1@m[1@.[1@t[1@w
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git config -;[Kl
+user.name=jimmy
+user.email=jimmy@yahoo.com.tw
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/kijy5428/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/kijy5428/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/kijy5428/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/kijy5428/lab1
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/kijy5428/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git co[Klone https://github.com/kijy5428/lab2.git
+Cloning into 'lab2'...
+warning: You appear to have cloned an empty repository.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/kijy5428/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ ls
+[0m[01;34mlab1[0m  lab1.script  [01;34mlab2[0m  typescript
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ rm-[K -rf lab1
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ rm -rf lab1ls[Kgit clone https://github.com/kijy5428/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;H34016128@2015cpp: ~[01;32mH34016128@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月06日 (週日) 22時28分54秒
