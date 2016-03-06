@@ -1,0 +1,9 @@
+Script started on 2016年03月07日 (週一) 00時55分41秒
+]0;H34016128@2015cpp: ~/lab1[01;32mH34016128@2015cpp[00m:[01;34m~/lab1[00m$ g./lab1bg++ -o lab1b lab1b.cppit clone https://github.com/kijy5428/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24P++ -o lab1b lab1b.cpp
+]0;H34016128@2015cpp: ~/lab1[01;32mH34016128@2015cpp[00m:[01;34m~/lab1[00m$ g++ -o lab1b lab1b.cpp./lab1b[K
+Please Enter Your Number Here : 22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1]0;H34016128@2015cpp: ~/lab1[01;32mH34016128@2015cpp[00m:[01;34m~/lab1[00m$ ./lab1bg++ -o lab1b lab1b.cpp./lab1b[K
+Please Enter Your Number Here : 12
+12 6 3 10 5 16 8 4 2 1]0;H34016128@2015cpp: ~/lab1[01;32mH34016128@2015cpp[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 2016年03月07日 (週一) 00時56分05秒
